@@ -13,7 +13,20 @@ This guide is for individuals already familiar with one cloud platform who want 
 As of recent statistics:  
 - **AWS**: ~32% market share  
 - **Azure**: ~23% market share  
-- **GCP**: ~10% market share  
+- **GCP**: ~10% market share
+
+- ![image](https://github.com/user-attachments/assets/8cbcb163-2569-4909-91f3-325df93f1024)
+
+
+- Below are the links to the cloud market share statistics:
+
+1. [AWS Market Share - Statista](https://www.statista.com/statistics/272364/market-share-held-by-cloud-infrastructure-providers/)
+2. [Azure Market Share - Statista](https://www.statista.com/statistics/272364/market-share-held-by-cloud-infrastructure-providers/)
+3. [GCP Market Share - Statista](https://www.statista.com/statistics/272364/market-share-held-by-cloud-infrastructure-providers/)
+4. [Cloud Market Share - Gartner](https://www.gartner.com/en/newsroom/press-releases/2024-cloud-market-share-analysis)
+5. [AWS vs Azure vs Google Cloud Comparison - Forbes](https://www.forbes.com/sites/bernardmarr/2023/10/01/the-3-biggest-cloud-platforms-aws-azure-google-cloud-a-comparison/)
+6. [Market Share - Synergy Research Group](https://www.srgresearch.com/press-release/aws-continues-to-lead-the-cloud-market-but-azure-and-google-cloud-are-gaining)
+
 
 ---  
 
